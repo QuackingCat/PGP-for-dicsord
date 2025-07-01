@@ -53,7 +53,7 @@ The `keys.json` file uses the following structure to organize PGP keys:
 * **private**: An array of objects, each containing a name and the ASCII-armored key string for your private PGP keys.
 * **public**: An object where keys are Discord Channel IDs or User IDs (as strings). Each value is an array of objects, similar to private, containing name and key for public PGP keys associated with that channel/user.
 
-Updates to this file takes effect immediately in the MITMProxy script (a refresh may be needed in discord to apply new keys for already cached messages).
+**Updates to this file takes effect immediately in the MITMProxy script (a refresh may be needed in discord to apply new keys for already cached messages).**
 
 ## Dependencies
 Before running the project, ensure you have the following installed:

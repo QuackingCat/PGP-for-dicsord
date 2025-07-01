@@ -31,7 +31,7 @@ The `keys.json` file uses the following structure to organize PGP keys:
     }
   ],
   "public": {
-    "123456789012345678": [  // Example: Discord Channel ID or User ID for public keys
+    "123456789012345678": [  // Example Discord Channel ID
       {
         "name": "FriendA'sKey",
         "key": "-----BEGIN PGP PUBLIC KEY BLOCK-----\n...\n-----END PGP PUBLIC KEY BLOCK-----"

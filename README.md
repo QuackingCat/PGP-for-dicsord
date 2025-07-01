@@ -1,8 +1,4 @@
 # PGP-for-Discord
-
-![Discord PGP Encryption/Decryption](https://img.shields.io/badge/Status-In%20Progress-blue)
-
-
 Automatically encrypts and decrypts Discord messages using PGP and MITMProxy.
 
 ## General Description
